@@ -19,6 +19,14 @@
       "type": "video",
       "youtubeId": "dQw4w9WgXcQ"
     },
+{
+      "id": "lesson-002",
+      "category": "Lessons",
+      "title": "Lesson 2: YO!",
+      "description": "WHAT IS THIS!?",
+      "date": "2026-09-25",
+      "type": "text"
+    },
     {
       "id": "resource-001",
       "category": "Resources",
