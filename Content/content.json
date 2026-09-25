@@ -1,0 +1,32 @@
+{
+  "categories": ["Announcements", "Lessons", "Resources"],
+
+  "items": [
+    {
+      "id": "welcome-001",
+      "category": "Announcements",
+      "title": "Welcome to the course!",
+      "description": "This is a plain text announcement. Edit or delete this item, then commit to GitHub - the app will show your change next time it's opened or refreshed.",
+      "date": "2026-09-25",
+      "type": "text"
+    },
+    {
+      "id": "lesson-001",
+      "category": "Lessons",
+      "title": "Lesson 1: Getting Started",
+      "description": "Tap this card to open the video on YouTube.",
+      "date": "2026-09-20",
+      "type": "video",
+      "youtubeId": "dQw4w9WgXcQ"
+    },
+    {
+      "id": "resource-001",
+      "category": "Resources",
+      "title": "Course Slides (PDF)",
+      "description": "Tap to open the link in your browser.",
+      "date": "2026-09-18",
+      "type": "link",
+      "url": "https://example.com/slides.pdf"
+    }
+  ]
+}
