@@ -1,6 +1,6 @@
 {
-  "categories": ["Announcements", "Lessons", "Resources"],
-  "categoryLayouts": { "Lessons": "grid" },
+  "categories": ["Announcements", "Lessons", "Resources", "Badges"],
+  "categoryLayouts": { "Lessons": "grid", "Badges": "grid" },
 
   "items": [
     {
