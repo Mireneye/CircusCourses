@@ -6,8 +6,8 @@
     {
       "id": "welcome-001",
       "category": "News",
-      "title": "Välkommen!",
-      "description": "Du har kommit rätt för att börja lära dig flowarts / cirkus verktyget **bold**, *italic*, Poi\n\n- Första steget\n- Andra steget\n\nEdit på en lång och spännande resa.",
+      "title": "Welcome!",
+      "description": "You've come to the right place to start learning flowarts and the circus prop **bold**, *italic*, Poi\n\n- First and\n- Second step\n\nEdit On a long journey.",
       "date": "2026-09-25",
       "type": "text"
     },
@@ -41,7 +41,7 @@
       "id": "lesson-003",
       "category": "Lessons",
       "title": "Lesson 3: Approach to learning",
-      "When someone teaches me a move. I tend to take it apart in as many small pieces as I can that can be practiced on their own. Because I want to take these individual pieces and find myself in them.\n-The move will be found in the symphony of your mind and body. Those.. Scales you've already learned allow for new expressions to emerge.",
+      "description": "When someone teaches me a move. I tend to take it apart in as many small pieces as I can that can be practiced on their own. Because I want to take these individual pieces and find myself in them.\n-The move will be found in the symphony of your mind and body. Those.. Scales you've already learned allow for new expressions to emerge.",
       "date": "2026-09-26",
       "type": "text"
     },
