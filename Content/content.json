@@ -1,5 +1,6 @@
 {
   "categories": ["Announcements", "Lessons", "Resources"],
+  "categoryLayouts": { "Lessons": "grid" },
 
   "items": [
     {
