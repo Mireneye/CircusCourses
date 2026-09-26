@@ -7,7 +7,7 @@
       "id": "welcome-001",
       "category": "Announcements",
       "title": "Welcome to the course!",
-      "description": "This is a plain text announcement. Edit or delete this item, then commit to GitHub - the app will show your change next time it's opened or refreshed.",
+      "description": "This is a plain text announcement. You can use **bold**, *italic*, and even\n\n- bullet points\n- like this\n\nEdit or delete this item, then commit to GitHub - the app picks it up next time it's opened or refreshed.",
       "date": "2026-09-25",
       "type": "text"
     },
