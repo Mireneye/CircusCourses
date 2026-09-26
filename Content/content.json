@@ -1,11 +1,11 @@
 {
-  "categories": ["Announcements", "Lessons", "Resources", "Badges"],
+  "categories": ["News", "Lessons", "Badges", "Links"],
   "categoryLayouts": { "Lessons": "grid", "Badges": "grid" },
 
   "items": [
     {
       "id": "welcome-001",
-      "category": "Announcements",
+      "category": "News",
       "title": "Welcome to the course!",
       "description": "This is a plain text announcement. You can use **bold**, *italic*, and even\n\n- bullet points\n- like this\n\nEdit or delete this item, then commit to GitHub - the app picks it up next time it's opened or refreshed.",
       "date": "2026-09-25",
@@ -39,7 +39,7 @@
     },
     {
       "id": "resource-001",
-      "category": "Resources",
+      "category": "Links",
       "title": "Course Slides (PDF)",
       "description": "Tap to open the link in your browser.",
       "date": "2026-09-18",
