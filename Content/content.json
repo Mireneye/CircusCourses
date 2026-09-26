@@ -27,6 +27,16 @@
       "date": "2026-09-25",
       "type": "text"
     },
+{
+      "id": "lesson-003",
+      "category": "Lessons",
+      "title": "Lesson 3: POI!",
+      "description": "HOW COOL IS THIS??",
+      "product": "Poi by Woolsey",
+      "image": "https://flowtoys.com/cdn/shop/files/nickwoolsey-flowtoys-led-podpoi-edinburgh-ruins2.jpg"
+      "date": "2026-09-26",
+      "type": "text"
+    },
     {
       "id": "resource-001",
       "category": "Resources",
