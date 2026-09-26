@@ -6,8 +6,8 @@
     {
       "id": "welcome-001",
       "category": "News",
-      "title": "Welcome to the course!",
-      "description": "This is a plain text announcement. You can use **bold**, *italic*, and even\n\n- bullet points\n- like this\n\nEdit or delete this item, then commit to GitHub - the app picks it up next time it's opened or refreshed.",
+      "title": "Välkommen!",
+      "description": "Du har kommit rätt för att börja lära dig flowarts / cirkus verktyget **bold**, *italic*, Poi\n\n- Första steget\n- Andra steget\n\nEdit på en lång och spännande resa.",
       "date": "2026-09-25",
       "type": "text"
     },
@@ -18,21 +18,41 @@
       "description": "Tap this card to open the video on YouTube.",
       "date": "2026-09-20",
       "type": "video",
-      "youtubeId": "dQw4w9WgXcQ"
+      "youtubeId": "xZ72M_g1xi8"
     },
 {
       "id": "lesson-002",
       "category": "Lessons",
-      "title": "Lesson 2: YO!",
-      "description": "WHAT IS THIS!?",
+      "title": "Lesson 2: Essence Style Principer",
+      "description": "Principles of Essence
+- Essence is found through rigorous training and discipline
+- Essence is found through playful exploration
+- Essence is embracing and enhancing the Yin(Soft) in your Yang(hard) and vice versa
+- Essence is feeling the prop and your audience through your core
+- Essence Style is inclusive & offers a path for you to train in accordance with your own ability and body, We are as one. On one journey  together.",
       "date": "2026-09-25",
+      "type": "text"
+    },
+{
+      "id": "lesson-004",
+      "category": "Lessons",
+      "title": "Lesson 3: Approach to developing something new",
+      "description": "When I develop a move. I often find a concept I want to explore. However once I do, I tend to turn my focus inside to what it feels like or what I want it to feel like.  
+  
+To me.. Learning a move should start with understanding the intention of it. The intention comes way before the handle, how you hold it and the head and how you swing it.  
+  
+It starts inside your body. Pay attention to it.",
+      "imageUrl": "https://flowtoys.com/cdn/shop/files/nickwoolsey-flowtoys-led-podpoi-edinburgh-ruins2.jpg",
+      "date": "2026-09-26",
       "type": "text"
     },
 {
       "id": "lesson-003",
       "category": "Lessons",
-      "title": "Lesson 3: POI!",
-      "description": "HOW COOL IS THIS??",
+      "title": "Lesson 3: Approach to learning",
+      "When someone teaches me a move. I tend to take it apart in as many small pieces as I can that can be practiced on their own. Because I want to take these individual pieces and find myself in them.
+
+The move will be found in the symphony of your mind and body. Those.. Scales you've already learned allow for new expressions to emerge.",
       "imageUrl": "https://flowtoys.com/cdn/shop/files/nickwoolsey-flowtoys-led-podpoi-edinburgh-ruins2.jpg",
       "date": "2026-09-26",
       "type": "text"
